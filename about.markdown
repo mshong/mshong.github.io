@@ -1,18 +1,27 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: About Me
+permalink: /about Me/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# **Introduction**
+- Hi, I’m mshong, with a Ph.D. degree in electrical engineering.
+- Currently, I'm working for a fabless company, [Sapien Semiconductor](www.sapien-semicon.com).
+- I have been developing video compression technologies, display technology, and image processing mostly.
+- Lately, I have been interested in machine learning and deep learning with Python.
+- You can reach me at mshong328@gmail.com.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+# **Recent Verilog HDL Projects:**
+I have recently developed the following projects using Verilog HDL:
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+1. **DSC(Display Stream Compression)**: A video compression standard developed by VESA (Video Electronics Standards Association) that is used to reduce the amount of data needed to transmit high-quality video. More information can be found at [DSC](https://vesa.org/vesa-display-compression-codecs/#tab-dsc).
 
+2. **VDC-M(Video Display Compression M)**: Another video compression standard developed by VESA that is designed for high-end displays, such as those used in medical and aerospace applications. More information can be found at [VDC-M](https://vesa.org/vesa-display-compression-codecs/#tab-vdc-m).
 
-[jekyll-organization]: https://github.com/jekyll
+3. **De-Mura Compensation**: A technique used to compensate for stains that may appear in the process of producing uLED/OLED displays.
+
+4. **Dead Pixel Compensation**: A technique used to compensate for dead pixels that may appear in the process of producing uLED/OLED displays.
+
+5. **Bilinear and Bicubic Scaler**: Algorithms used to increase or decrease the size of an image while maintaining its quality.
+
+Feel free to contact me if you have any questions or want to discuss any projects related to these topics.
