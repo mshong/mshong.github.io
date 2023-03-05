@@ -6,7 +6,7 @@ permalink: /about/
 
 # **Introduction**
 - Hi, I’m mshong, with a Ph.D. degree in electrical engineering.
-- Currently, I'm working for a fabless company, [Sapien Semiconductor](www.sapien-semicon.com).
+- Currently, I'm working for a fabless company, [Sapien Semiconductor](http://www.sapien-semicon.com).
 - I have been developing video compression technologies, display technology, and image processing mostly.
 - Lately, I have been interested in machine learning and deep learning with Python.
 - You can reach me at mshong328@gmail.com.
